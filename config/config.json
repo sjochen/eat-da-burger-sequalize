@@ -16,9 +16,9 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "rpdtj7izp6g7exng",
-    "password": "qfbkamfiqa16937i",
-    "database": "akvs9hqm3jf4j15q",
+    "username": "root",
+    "password": null,
+    "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false,
